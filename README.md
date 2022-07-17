@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Fylo landing page with two column layout](https://your-live-site-url.com)
+- Live Site URL: [Fylo landing page with two column layout](https://ekizashvilit.github.io/fylo-landing-page-with-two-column-layout-master/)
 
 ## Author
 
